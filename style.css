@@ -4,6 +4,11 @@
   background-color: #e6ffff;
   font-family: 'Roboto Slab', serif;
 }
+
+a:hover{
+  background-color: #00ffcc;
+
+}
 .first-sec{
   margin: 0;
   width: 100%;
